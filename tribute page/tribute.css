@@ -1,0 +1,37 @@
+body{
+	color:black;
+
+}
+h1 {color: #354670;
+
+
+}
+h2{color: voilet ;
+}
+h3{color: #ff6557 ;
+}
+.img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50% ;
+	hight: 55%;
+	border: 3px solid yellow ;
+}
+small{ color:red 
+}
+strong{ color: black
+ }
+ 
+ body{ background-color: #97102d}
+ .thumbnail{background-color: 5656;}
+ P { text-align:JUSTIFY; }
+h1{text-align: center}
+h2{text-align: center}
+h3{text-align: center}
+strong{width: 50%;}
+div{
+	hover: yellow;
+}
+
+
